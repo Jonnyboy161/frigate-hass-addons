@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Frigate
+# Home Assistant Add-on: Frigate (fork)
 
 Please reference the [release notes](https://github.com/blakeblackshear/frigate/releases) for breaking changes.
 
